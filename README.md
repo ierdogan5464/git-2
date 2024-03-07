@@ -1,2 +1,3 @@
 # git-2
 merhaba
+Goog Bye .....
